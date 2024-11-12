@@ -43,7 +43,6 @@ def cetak_struk():
     print(f"Total Harga: Rp {total_harga}")
     print("================")
 
-# Program utama tetap sama
 while True:
     print("\nMenu:")
     print("1. Tampilkan Daftar Barang")
